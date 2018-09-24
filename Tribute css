@@ -1,0 +1,39 @@
+html {
+  font-family: 'Crimson Text', serif;
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+  padding-top: 30px;
+  
+}
+h1, h2, p, footer {
+  text-align: center;
+}
+h1, h2 {
+  font-family: 'Merriweather', serif;
+}
+#main {
+  background-color: #dad295;
+  padding: 20px 60px;
+}
+#img-div {
+  background-color: #bdb682;
+  border: 10px inset #889a24 ;
+  border-radius: 7px;
+  padding: 10px;
+
+}
+
+#tribute-info {
+  min-width: 300px;
+  margin: 0px 200px 0px 200px;
+  
+}
+
+footer {
+  font-size: 1.3em;
+  
+}
